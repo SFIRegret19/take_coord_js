@@ -1,0 +1,1 @@
+# take_coord_js
